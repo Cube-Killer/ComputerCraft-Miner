@@ -17,6 +17,28 @@
 			"minecraft:gold_ore",
 			"minecraft:lapis_ore",
 			"minecraft:quartz_ore",
+	                "minecraft:copper_ore",
+	                "minecraft:deepslate_coal_ore",
+			"minecraft:deepslate_iron_ore",
+			"minecraft:deepslate_redstone_ore",
+			"minecraft:deepslate_gold_ore",
+			"minecraft:deepslate_lapis_ore",
+			"minecraft:deepslate_quartz_ore",
+	                "minecraft:deepslate_copper_ore",
+	                "minecraft:diamond_ore",
+	                "minecraft:deepslate_diamond_ore",
+	                "minecraft:deepslate_emerald_ore",
+			"minecraft:emerald_ore",
+	                "immersiveengineering:ore_aluminum",
+	                "immersiveengineering:deepslate_ore_aluminum",
+	                "immersiveengineering:ore_lead",
+	                "immersiveengineering:deepslate_ore_lead",
+	                "immersiveengineering:ore_silver",
+	                "immersiveengineering:deepslate_ore_silver",
+	                "immersiveengineering:ore_nickel",
+	                "immersiveengineering:deepslate_ore_nickel",
+	                "immersiveengineering:ore_uranium",
+	                "immersiveengineering:deepslate_ore_uranium",
 		}
 
 		--[[
@@ -30,6 +52,8 @@
 		]]
 		 special = { --here are the blocks that the miner should report
 			"minecraft:diamond_ore",
+	                "minecraft:deepslate_diamond_ore",
+	                "minecraft:deepslate_emerald_ore",
 			"minecraft:emerald_ore",
 			"minecraft:mossy_cobblestone",
 			"minecraft:planks",
@@ -44,7 +68,9 @@
 
 		 reportmsg = { --here are the messages that the miner should report
 			"Found a diamond! See at ",
-			"Found an emerald! See at ",
+	                "Found a deep diamond! See at ",
+			"Found an deep emerald! See at ",
+	                "Found an emerald! See at ",
 			"Found a monster spawner! See at ",
 			"Found an abandoned mine shaft! See at ",
 			"Found an abandoned mine shaft! See at ",
