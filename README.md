@@ -29,11 +29,11 @@ v1.64 or above
 Open your turtle.
 If your mod version is 1.77 or above, then please use this command:
 ```shell
-wget https://raw.githubusercontent.com/Sayinore/ComputerCraft-Miner/master/Miner.lua miner
+wget https://raw.githubusercontent.com/Cube-Killer/ComputerCraft-Miner/master/Miner.lua miner
 ```  
 If it's not, please use the following command in lua mode:  
 ```lua
-io.open("miner", "a");io.output("miner");io.write(http.get("https://raw.githubusercontent.com/Sayinore/ComputerCraft-Miner/master/Miner.lua miner").readAll());io.close()
+io.open("miner", "a");io.output("miner");io.write(http.get("https://raw.githubusercontent.com/Cube-Killer/ComputerCraft-Miner/master/Miner.lua miner").readAll());io.close()
 ```
 
 ## Usage
