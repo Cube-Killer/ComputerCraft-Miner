@@ -1,3 +1,7 @@
+--var and array define area start
+	--REPLACE YOUR OWN SETTINGS HERE
+		distance = 16
+		fillingblock = "minecraft:air"
 --IF YOUR MODS HAVE THEIR OWN THINGS, YOU CAN ADD THEM HERE
 		--[[
 			add the item ids of the mineral blocks of your mods here
