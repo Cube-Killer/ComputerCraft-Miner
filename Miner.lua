@@ -1,10 +1,4 @@
---var and array define area start
-	--REPLACE YOUR OWN SETTINGS HERE
-		distance = 32
-		fillingblock = "minecraft:cobblestone"
-	--REPLACE YOUR OWN SETTINGS HERE
-
-	--IF YOUR MODS HAVE THEIR OWN THINGS, YOU CAN ADD THEM HERE
+--IF YOUR MODS HAVE THEIR OWN THINGS, YOU CAN ADD THEM HERE
 		--[[
 			add the item ids of the mineral blocks of your mods here
 			you can see them in your inventory, and they're like this:
